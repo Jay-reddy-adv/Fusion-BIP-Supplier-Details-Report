@@ -10,7 +10,7 @@ This BIP report provides a detailed view of requisitions, including supplier inf
 **---> XML Sample Data for Layout Preview**
 
 
-# **📌 Report Purpose**
+# Report Purpose
 
 **To provide business users a clear overview of:**
 
